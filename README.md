@@ -107,7 +107,7 @@ A passionate computer enthusiast who loves to contribute to projects and is alwa
 <div align="center">
 
 ### 💭 Quote of the Day
-*"Peak of Happiness is crying and Peak of sadness is smilling"* - Alan Kay
+*"Peak of Happiness is crying and Peak of sadness is smilling"* - 
 
 ---
 
