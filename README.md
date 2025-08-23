@@ -107,7 +107,7 @@ A passionate computer enthusiast who loves to contribute to projects and is alwa
 <div align="center">
 
 ### 💭 Quote of the Day
-*"The best way to predict the future is to invent it."* - Alan Kay
+*"Peak of Happiness is crying and Peak of sadness is smilling"* - Alan Kay
 
 ---
 
