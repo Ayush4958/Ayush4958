@@ -12,13 +12,13 @@
 
 ## 🌟 About Me
 
-A passionate computer enthusiast who loves to contribute to projects and is always ready to learn new things. I enjoy solving complex problems and building innovative solutions that make a difference.
+I am a passionate full-stack developer focused on building scalable backend systems and user-centric web applications with real social impact. I actively contribute to open-source projects and am preparing for programs like Summer of Bitcoin and CNCF contributions.
 
-- 🔭 Currently working on full-stack web development projects
-- 🌱 Learning and exploring new technologies daily
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about JavaScript, React, Node.js, and web development
-- ⚡ Fun fact: I love turning ideas into reality through code!
+- 🔭 Building production-grade Node.js & MongoDB systems  
+- 🌱 Learning distributed systems, blockchain & Kubernetes  
+- 👯 Open to collaborating on AI, Web Infrastructure & Open Source projects  
+- 💬 Ask me about REST APIs, JWT Auth, React, MongoDB, Node.js  
+- ⚡ Fun fact: I enjoy turning broken systems into reliable products
 
 ---
 
@@ -28,15 +28,26 @@ A passionate computer enthusiast who loves to contribute to projects and is alwa
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-663399?style=for-the-badge&logo=ejs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
 ### Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+### DevOps & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+### Blockchain
+![Blockchain](https://img.shields.io/badge/Blockchain-black?style=for-the-badge)
 
 </div>
 
@@ -57,6 +68,17 @@ A passionate computer enthusiast who loves to contribute to projects and is alwa
 | [⚡ Balls-Collision](https://github.com/Ayush4958/balls-collision) | JavaScript | - | Physics simulation project |
 
 </div>
+
+---
+
+## 🔥 Current Interests
+
+- Open Source Infrastructure (CNCF, Bitcoin, Kubernetes)
+- Distributed Systems & Backend Architecture
+- AI-Driven Automation Workflows
+- Secure Auth Systems (JWT, RBAC)
+- Blockchain-based transparency platforms
+- Contact me for any type of Contribution & Collaboration
 
 ---
 
@@ -90,7 +112,7 @@ A passionate computer enthusiast who loves to contribute to projects and is alwa
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ayushbhand31273)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-bhandari-543a35277/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushbhandari009-ft/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush4958)
 
 </div>
