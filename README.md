@@ -77,6 +77,7 @@ I am a passionate full-stack developer focused on building scalable backend syst
 - Distributed Systems & Backend Architecture
 - AI-Driven Automation Workflows
 - Secure Auth Systems (JWT, RBAC)
+- Working with Bitcoin technical core in JS
 - Blockchain-based transparency platforms
 - Contact me for any type of Contribution & Collaboration
 
