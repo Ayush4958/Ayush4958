@@ -75,8 +75,9 @@ I am a passionate full-stack developer focused on building scalable backend syst
 
 <div align="center" >
 
-| S No. | PR | Description |
-|-------|----|-------------|
+| S No. | Status | PR | Description |
+|-------|--------|----|-------------|
+| 1. | Merged | [#336](https://github.com/StatTag/StatWrap/pull/336) | Feature extract Author name from RMarkDown & Quarto File |
   
 </div>
 
