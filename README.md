@@ -78,6 +78,9 @@ I am a passionate full-stack developer focused on building scalable backend syst
 | S No. | Status | PR | Description |
 |-------|--------|----|-------------|
 | 1. | Merged | [#336](https://github.com/StatTag/StatWrap/pull/336) | Feature extract Author name from RMarkDown & Quarto File |
+| 2. | Merged | [#327](https://github.com/StatTag/StatWrap/pull/327) | Add warning label for files which are sensitive & tracked by version control |
+| 3. | Merged | [#339](https://github.com/StatTag/StatWrap/pull/339) | Fixes child note component as its behaviour broking parent component & whole UX |
+| 4. | Merged | [#342](https://github.com/StatTag/StatWrap/pull/342) | Add support for Go language |
   
 </div>
 
