@@ -63,9 +63,6 @@ I am a passionate full-stack developer focused on building scalable backend syst
 | [⚛️ React-Journey](https://github.com/Ayush4958/React-Journey) | React, JavaScript | 1⭐ | Learning React through practical projects |
 | [📚 JavaScript-Journey](https://github.com/Ayush4958/JavaScript_Journey) | JavaScript | 1⭐ | JS from beginner to advanced level |
 | [☀️ Weather-Website](https://github.com/Ayush4958/Weather-Website) | JavaScript, API | 2⭐ | Weather app with API integration |
-| [✅ ToDo-React](https://github.com/Ayush4958/ToDo_React) | React, JavaScript | - | Task management app with React |
-| [🎵 Music-Player](https://github.com/Ayush4958/MUSIC-PLAYER) | CSS, JavaScript | - | Beautiful music player interface |
-| [⚡ Balls-Collision](https://github.com/Ayush4958/balls-collision) | JavaScript | - | Physics simulation project |
 
 </div>
 
@@ -81,6 +78,8 @@ I am a passionate full-stack developer focused on building scalable backend syst
 | 2. | Merged | [#327](https://github.com/StatTag/StatWrap/pull/327) | Add warning label for files which are sensitive & tracked by version control |
 | 3. | Merged | [#339](https://github.com/StatTag/StatWrap/pull/339) | Fixes child note component as its behaviour broking parent component & whole UX |
 | 4. | Merged | [#342](https://github.com/StatTag/StatWrap/pull/342) | Add support for Go language |
+| 5. | Merged | [#364](https://github.com/StatTag/StatWrap/pull/364) | Add support for Rust language |
+| 6. | Merged | [#356](https://github.com/StatTag/StatWrap/pull/356) | Add support for SQL language |
   
 </div>
 
