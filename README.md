@@ -83,7 +83,7 @@ I am a passionate full-stack developer focused on building scalable backend syst
 | 7. | Merged | [#367](https://github.com/StatTag/StatWrap/pull/367) | fixes UI rendering of Categoris & Description attribute |
 | 8. | Merged | [#367](https://github.com/StatTag/StatWrap/pull/367) | fixes UI rendering of Categoris & Description attribute |
 | 9. | Merged | [#343](https://github.com/StatTag/StatWrap/pull/343) | fixes Dashboard Input form Text Bar |
-| 10.| Merged | [#392](https://github.com/StatTag/StatWrap/pull/392) | Upgraded the Electron version stable version |
+| 10.| Merged | [#392](https://github.com/StatTag/StatWrap/pull/392) | Upgraded the Electron version to stable Electron version |
 </div>
 
 ---
