@@ -84,6 +84,7 @@ I am a passionate full-stack developer focused on building scalable backend syst
 | 8. | Merged | [#368](https://github.com/StatTag/StatWrap/pull/368) | feat: add java icon for the language support |
 | 9. | Merged | [#343](https://github.com/StatTag/StatWrap/pull/343) | fixes Dashboard Input form Text Bar |
 | 10.| Merged | [#392](https://github.com/StatTag/StatWrap/pull/392) | Upgraded the Electron version to stable Electron version |
+| 11.| Merged | [#7110](https://github.com/sugarlabs/musicblocks/pull/7110) | fix: replace innerHTML concatenation with programmatic DOM creation |
 </div>
 
 ---
