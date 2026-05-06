@@ -86,6 +86,8 @@ I am a passionate full-stack developer focused on building scalable backend syst
 | 10.| Merged | [#392](https://github.com/StatTag/StatWrap/pull/392) | Upgraded the Electron version to stable Electron version |
 | 11.| Merged | [#7110](https://github.com/sugarlabs/musicblocks/pull/7110) | fix: replace innerHTML concatenation with programmatic DOM creation |
 | 12.| Opened | [#7160](https://github.com/sugarlabs/musicblocks/pull/7160) | perf: modernize UI rendering with requestAnimationFrame | 
+| 13.| Opened | [#7125](https://github.com/sugarlabs/musicblocks/pull/7125) | fix: resolve AGENTS.md innerHTML security violations in UI widgets |
+| 14.| Opened | [#7117](https://github.com/sugarlabs/musicblocks/pull/7117) | fix: resolve AGENTS.md innerHTML security violations in toolbar and Planet UI |
 </div>
 
 ---
