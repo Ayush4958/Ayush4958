@@ -90,6 +90,7 @@ I am a passionate full-stack developer focused on building scalable backend syst
 | 14.| Opened | [#7117](https://github.com/sugarlabs/musicblocks/pull/7117) | fix: resolve AGENTS.md innerHTML security violations in toolbar and Planet UI |
 | 15.| Merged | [#385](https://github.com/StatTag/StatWrap/pull/385) | Migrating Current React version to Latest Stable version |
 | 16.| Merged | [#2080](https://github.com/JhaSourav07/commitpulse/pull/2080) | Updated the Merge conflicter norifier of Github Action Bot |
+| 17.| Merged | [336](https://github.com/geturbackend/urBackend/pull/336) | Creating & Enabling Private Access Token on Entire Bakcend Architecture |
 </div>
 
 ---
