@@ -1,6 +1,6 @@
 # My Contributions to StatTag/StatWrap
 
-## Pull Requests (Closed/Merged)
+## Pull Requests (Merged)
 
 - [#392 - Migrating Current Electron version to Stable Electron version](https://github.com/StatTag/StatWrap/pull/392) — Upgraded the app's Electron dependency from an older/pre-release build to the latest stable release to improve compatibility and security.
 - [#385 - Migrating Current React version to Latest Stable version](https://github.com/StatTag/StatWrap/pull/385) — Upgraded the project's React dependency to the latest stable version, ensuring compatibility with newer libraries and features.
