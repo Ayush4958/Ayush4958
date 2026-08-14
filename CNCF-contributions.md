@@ -44,3 +44,11 @@ Contributions span 3 repositories under the CNCF Ecosystem.
 ---
 
  ## Repo: `headlamp-k8s/plugins`
+
+ ### Pull Requests
+ 
+ - [#1088](https://github.com/headlamp-k8s/plugins/pull/1088) :- fix(app-catalog): resolve memory leaks in release detail view- #1088
+
+### Issues Created 
+
+- [#1085](https://github.com/headlamp-k8s/plugins/issues/1085) :- [Bug] app-catalog: Releases Detail.tsx lacks fetch cancellation & leaks recursive timeout
