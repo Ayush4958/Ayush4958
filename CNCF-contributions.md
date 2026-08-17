@@ -10,7 +10,7 @@ Contributions span 3 repositories under the CNCF Ecosystem.
 
 - [#381](https://github.com/kubernetes-sigs/node-readiness-controller/pull/381) :- Opened a PR for Clear FailedNodes on successful node reconciliation.Also fixes a state leak in the NodeReconciler.
 
-- [#381](https://github.com/kubernetes-sigs/node-readiness-controller/pull/381) :- [test] add e2e coverage for missing condition handling and finalizer cleanup
+- [#359](https://github.com/kubernetes-sigs/node-readiness-controller/pull/359) :- [test] add e2e coverage for missing condition handling and finalizer cleanup
 
 ### Issues Created
 
